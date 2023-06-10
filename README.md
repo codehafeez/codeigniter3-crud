@@ -14,7 +14,9 @@ http://localhost/codeigniter3-crud
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/TimeTable.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-crud/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-crud/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/codeigniter3-crud/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
